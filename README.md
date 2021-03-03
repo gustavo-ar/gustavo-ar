@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey guys! Welcome to my developer profile!
 
-<!--
-**gustavo-ar/gustavo-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gustavo de Almeida Raphael.
 
-Here are some ideas to get you started:
+I'm currently working on IBM as an application developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a helpful person and I can adapt to new environments quickly.
+
+
+#### Contact me:
+[![Linkedin Badge]
+(https://img.shields.io/badge/-GustavodeAlmeidaRaphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoalmeidaraphael/)
+
+[![Gmail badge]
+(https://img.shields.io/badge/-gustavo.almeidaraphael-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.almeidaraphael@gmail.com)](mailto:gustavo.almeidaraphael@gmail.com)
