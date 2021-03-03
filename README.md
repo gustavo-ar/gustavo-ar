@@ -8,6 +8,6 @@ I'm a helpful person and I can adapt to new environments quickly.
 
 
 #### Contact me:
-![Linkedin Badge](https://img.shields.io/badge/-GustavodeAlmeidaRaphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoalmeidaraphael/)
+[![Linkedin Badge](https://img.shields.io/badge/-GustavodeAlmeidaRaphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/gustavoalmeidaraphael/)
 
 [![Gmail badge](https://img.shields.io/badge/-gustavo.almeidaraphael-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.almeidaraphael@gmail.com)](mailto:gustavo.almeidaraphael@gmail.com)
