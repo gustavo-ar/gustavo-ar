@@ -2,7 +2,7 @@
 
 My name is Gustavo de Almeida Raphael.
 
-I'm currently working on IBM as an application developer.
+I'm currently working on Itau as a Software Engineer.
 
 I'm a helpful person and I can adapt to new environments quickly.
 
